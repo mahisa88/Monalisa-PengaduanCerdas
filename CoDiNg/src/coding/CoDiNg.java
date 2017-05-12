@@ -21,6 +21,7 @@ public class CoDiNg {
         Scanner input = new Scanner(System.in);
         System.out.println("enter number");
         System.out.println(input.nextLine());
+        // kerjakan 
         
         
     }
